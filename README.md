@@ -2,4 +2,4 @@
 # Maria Emília - 11812604
 
 
-	Foi feito um script que executava as mesmas 		operações da planilha cruzreta.xlsx.
+	Foi feito um script que executava as mesmas operações da planilha cruzreta.xlsx.
